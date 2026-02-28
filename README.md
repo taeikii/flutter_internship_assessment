@@ -1,17 +1,16 @@
-# bertugas_task_app
+# Flutter Internship Assessment - Bertugas Task Management App
 
-A new Flutter project.
+Figma: https://www.figma.com/community/file/1286958445773703738
 
-## Getting Started
+Implemented:
+- Home screen with summary, task list, search & tabs
+- Create task screen
+- Navigation (bottom bar)
+- Provider state management
+- Mock data & filtering
 
-This project is a starting point for a Flutter application.
+Setup:
+1. flutter pub get
+2. flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built in 3 days for internship assessment.
