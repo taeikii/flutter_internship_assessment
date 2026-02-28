@@ -5,7 +5,7 @@ class Task {
   final String project;
   final String assignedTo;
   final DateTime deadline;
-  final String status; // "new", "ongoing", "completed"
+  final String status; 
 
   Task({
     required this.id,
