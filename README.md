@@ -20,3 +20,5 @@ Flutter implementation for the 3-day internship assessment.
 
 ## How to run
 1. Clone the repository
+2. Install dependencies
+3. Run the app
