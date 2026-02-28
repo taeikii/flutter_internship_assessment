@@ -1,16 +1,22 @@
-# Flutter Internship Assessment - Bertugas Task Management App
+# Bertugas – Task Management Mobile App
 
-Figma: https://www.figma.com/community/file/1286958445773703738
+Flutter implementation for the 3-day internship assessment.
 
-Implemented:
-- Home screen with summary, task list, search & tabs
-- Create task screen
-- Navigation (bottom bar)
-- Provider state management
-- Mock data & filtering
+**Figma design**: https://www.figma.com/community/file/1286958445773703738
 
-Setup:
-1. flutter pub get
-2. flutter run
+## Features implemented
+- Home dashboard with summary cards, task list, search bar & tab filtering (All / In Progress / Completed)
+- Create new task screen with title, description (with counter), project, assigned to, deadline picker
+- Bottom navigation bar (Home, Calendar, Projects, Profile)
+- Provider state management with mock data
+- Responsive layout + empty state handling
+- Consistent Material 3 theme (purple accent matching Figma)
 
-Built in 3 days for internship assessment.
+## Tech stack
+- Flutter (Material 3)
+- Provider 6.1.2
+- google_fonts (Poppins)
+- intl (date formatting)
+
+## How to run
+1. Clone the repository
