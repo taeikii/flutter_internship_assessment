@@ -1,0 +1,16 @@
+# Flutter files to ignore
+.dart_tool/
+.packages
+build/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android files
+.gradle/
+local.properties
+**/android/.gradle/
+
+# General
+.DS_Store
+*.log
